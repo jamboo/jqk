@@ -12,3 +12,4 @@ HIGH = 2
 LOW = 3
 CLOSE = 4
 VOL = 5
+

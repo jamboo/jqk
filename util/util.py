@@ -3,6 +3,8 @@ __author__ = 'Winface'
 
 import os
 from constants.constants import *
+
+
 #return file names only
 def iterate_file_names():
     list_files = []
@@ -12,3 +14,5 @@ def iterate_file_names():
             if file.endswith(".day"):
                 list_files.append(file)
     return list_files
+
+

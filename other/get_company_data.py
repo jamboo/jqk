@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 
 import json
-from keyboard_util import *
+
+from other.keyboard_util import *
 
 
 def select_next_stock():
