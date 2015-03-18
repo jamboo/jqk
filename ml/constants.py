@@ -1,0 +1,6 @@
+__author__ = 'yingbozhan'
+
+
+CATEGORIZE_SAMPLE_METHOD = None
+DATA_MODEL_FORMATION_METHOD = None
+MODEL_METHOD = None
